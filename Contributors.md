@@ -152,6 +152,7 @@ Subhajit Bera
   [Dhaval R Solanki](https://github.com/Dhaval1421)
 - [Jovan Lanutan](https://github.com/tan911)
 - [Saurabh Jumnalkar](https://github.com/SaurabhJumnalkar)
+- [Ji Sharp](https://github.com/jisharpmusic)
 - [Natalie Smyth](https://github.com/nataliesmyth)
 - [Brian Bloodaxe]()
 - [HHA](https://github.com/HeinHtetAunggg)
